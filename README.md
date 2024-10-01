@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Dhanush
+- 📫 Aspiring Java-Full-Stack Developer,B-Tech CSE 
 - 👀 I’m interested in ...Coding,WEBDevelopMent
 - 🌱 I’m currently learning ...JAVA FullStack
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Dhanushremo/Dhanushremo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
